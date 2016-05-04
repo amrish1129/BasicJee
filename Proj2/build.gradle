@@ -1,0 +1,17 @@
+apply from: file("${rootDir}/gradle/web.gradle")
+
+apply plugin: 'java'
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+// In this section you declare the dependencies for your production and test code
+dependencies {
+   compile ( 'javax.servlet:javax.servlet-api:3.1.0',
+            	'javax.servlet.jsp:jsp-api:2.2')
+            
+   testCompile( 'junit:junit:4.12',
+				'org.mockito:mockito-all:1.10.19')
+}

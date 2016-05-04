@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sh.addjsp.TicketServletTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-04-20T07:38:47" hostname="Amrishs-MacBook-Pro.local" time="0.181">
+  <properties/>
+  <testcase name="testDoGetCreate" classname="com.sh.addjsp.TicketServletTest" time="0.178"/>
+  <testcase name="testDoGetView" classname="com.sh.addjsp.TicketServletTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

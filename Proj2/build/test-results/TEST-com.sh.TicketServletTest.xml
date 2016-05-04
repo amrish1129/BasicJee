@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sh.TicketServletTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-04-19T11:13:54" hostname="Amrishs-MacBook-Pro.local" time="0.215">
+  <properties/>
+  <testcase name="testDoGetViewForNull" classname="com.sh.TicketServletTest" time="0.209"/>
+  <testcase name="testDoGetCreate" classname="com.sh.TicketServletTest" time="0.002"/>
+  <testcase name="testDoGetView" classname="com.sh.TicketServletTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
